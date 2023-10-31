@@ -8,6 +8,3 @@ The N queens puzzle is the challenge of placing N non-attacking queens on an NxN
     * One solution per line
     * Solution is a list of lists containing coordinates for queen positions
   * Only allowed to import `sys` module
-
-### test_files
-The test_files/ directory contains files used to test the output of the algorithm locally.
