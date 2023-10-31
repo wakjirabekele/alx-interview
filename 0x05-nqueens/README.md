@@ -1,10 +1,9 @@
-# 0x00-lockboxes
-The N queens puzzle is the challenge of placing N non-attacking queens on an NxN chessboard.
-
-[N Queens](/0x0C-nqueens/0-nqueens.py)
-* Write a Python program that solves the N queens puzzle:
-  * Usage: `nqueens N` where `N` must be an integer greater than or equal to 4
-  * The program should print every possible solution to the problem
-    * One solution per line
-    * Solution is a list of lists containing coordinates for queen positions
-  * Only allowed to import `sys` module
+<h1>Requirements</h1>
+<strong>General</strong>
+<p color = "red">Allowed editors: vi, vim, emacs</p>
+All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.4.3)
+All your files should end with a new line
+The first line of all your files should be exactly #!/usr/bin/python3
+A README.md file, at the root of the folder of the project, is mandatory
+Your code should use the PEP 8 style (version 1.7.*)
+All your files must be executable
